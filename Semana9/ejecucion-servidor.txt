@@ -1,0 +1,5 @@
+Qué ocurre cuando ejecutas node server.js
+Me lleva a una página y me dice que el servidor está activo.
+Qué mensaje aparece en la terminal.
+que se está ejecutando en el local host 3000
+Qué sucede cuando visitas la ruta /estado.
